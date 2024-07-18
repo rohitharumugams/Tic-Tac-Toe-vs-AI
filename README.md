@@ -47,16 +47,6 @@ In the next version, we plan to add a 20% probability that the AI might "miss" t
 2. Click on the grid to make your move.
 3. Press 'R' to restart the game.
 
-## Project Structure
-
-tic-tac-toe/
-│
-├── main.py # Contains the main game loop and event handling
-├── board.py # Contains the board-related functions and logic
-├── ai.py # Contains the AI-related functions (minimax algorithm and best move)
-├── constants.py # Contains the constant values like colors and sizes
-├── README.md # Project overview and instructions
-
 ## Acknowledgements
 
 This project was inspired by the [NeuralNine](https://www.youtube.com/watch?v=LbTu0rwikwg) channel on YouTube.
