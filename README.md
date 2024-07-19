@@ -10,6 +10,10 @@ This is a simple Tic Tac Toe game created using Pygame. The twist is that you pl
 - Clean and simple UI
 - Restart the game anytime by pressing the 'R' key
 
+## Demo
+
+![](https://github.com/rohitharumugams/Tic-Tac-Toe-vs-AI/blob/main/tictactoe_demo.gif)
+
 ## Minimax Algorithm
 
 The AI uses the Minimax algorithm to make its moves. The algorithm works as follows:
