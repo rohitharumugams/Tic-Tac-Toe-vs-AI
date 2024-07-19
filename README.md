@@ -25,7 +25,7 @@ In the next version, I plan to add a 20% probability that the AI might "miss" th
 
 Edit: 19/07/2024
 
-Added a 20% probability for the AI to make a blunder.
+Added a 20% probability for the AI to make a blunder. (Check ai_v2.py)
 
 ## Installation
 
