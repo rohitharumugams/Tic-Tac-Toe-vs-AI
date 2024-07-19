@@ -24,6 +24,7 @@ The AI uses the Minimax algorithm to make its moves. The algorithm works as foll
 In the next version, I plan to add a 20% probability that the AI might "miss" the optimal Minimax move and make a blunder, just like humans sometimes do, to make the game more enjoyable and fair.
 
 Edit: 19/07/2024
+
 Added a 20% probability for the AI to make a blunder.
 
 ## Installation
